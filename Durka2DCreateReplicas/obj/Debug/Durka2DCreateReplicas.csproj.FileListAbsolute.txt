@@ -1,0 +1,10 @@
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\bin\Debug\Durka2DCreateReplicas.exe.config
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\bin\Debug\Durka2DCreateReplicas.exe
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\bin\Debug\Durka2DCreateReplicas.pdb
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.Durka2DCreateReplicas.resources
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.Properties.Resources.resources
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.csproj.GenerateResource.cache
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.exe
+C:\Users\Кирилл\source\repos\Durka2DCreateReplicas\Durka2DCreateReplicas\obj\Debug\Durka2DCreateReplicas.pdb
