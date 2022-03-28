@@ -1,13 +1,1 @@
-<?xml version="1.0"?>
-<Replicas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ReplicasList>
-    <Replica>
-      <replica>Здравствуй, парнишка, добро пожаловать в дурку!</replica>
-      <CharacterName>Медсестра</CharacterName>
-    </Replica>
-    <Replica>
-      <replica>Ты новенький? Заведующий тебя ждет.</replica>
-      <CharacterName>Медсестра</CharacterName>
-    </Replica>
-  </ReplicasList>
-</Replicas>
+
